@@ -9,4 +9,3 @@
 - 📫 How to reach me: ... [Portfolio](www.akeylavirgin.com)
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am a stay at home mom. 
--->
