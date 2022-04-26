@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with JavaScript
 - 🧘🏽‍♀️ In my free time, I enjoy reading self development and pyschological thrillers,<br>
 practicing yoga, shopping and spending time with my family
-- 💬 Let's chat [Calendly](https://calendly.com/akeylavirgin)
-- ☪︎ Check out my [Portfolio](www.akeylavirgin.com) to get to know me better.
 - 👩🏽‍🦱 Pronouns: She/Her
 - ⚡ Fun fact: I am learning and teaching my children ASL. 
+- 💬 Let's chat [Calendly](https://calendly.com/akeylavirgin)
+- ☪︎ Check out my [Portfolio](www.akeylavirgin.com) to get to know me better.
