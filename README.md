@@ -6,7 +6,7 @@
 
 - 👩🏽‍🦱 Pronouns: She/Her
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **open-source projects, bonus: Educational and/or Mental Health projects.**
 
