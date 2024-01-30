@@ -2,7 +2,7 @@
 <b><h1 align="center">Hello World, I'm Akeyla 👋🏽</h1></b>
 <hr>
 
-<h3 align="center">A passionate frontend developer from South Florida.</h3>
+<h3 align="center">A passionate data analyst from South Florida.</h3>
 
 - 👩🏽‍🦱 Pronouns: She/Her
 
@@ -13,15 +13,15 @@
 - 🤝 I’m looking for help with **JavaScript**
 
 - 🧘🏽‍♀️ In my free time, I enjoy reading self development and pyschological thrillers,<br>
-practicing yoga, shopping and spending time with my family
+practicing yoga, painting and spending time with my family
 
 - ⚡ Fun fact: I am learning and teaching my children ASL. 
 
 - 💬 Let's chat [Calendly](https://calendly.com/akeylavirgin)
 
-- 👨‍💻 All of my projects are available at [www.akeylavirgin.com](www.akeylavirgin.com)
+- 👨‍💻 All of my projects are available at [www.akeylavirgin.com](akeylavirgin.netlify.app)
 
-- 📫 How to reach me **hello@akeylavirgin.com**
+- 📫 How to reach me **virgin.a@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
