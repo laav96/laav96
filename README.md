@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects, bonus: Educational and/or Mental Health projects.**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **Networking**
 
 - 🧘🏽‍♀️ In my free time, I enjoy reading self development and pyschological thrillers,<br>
 practicing yoga, painting and spending time with my family
