@@ -2,7 +2,7 @@
 <b><h1 align="center">Hello World, I'm Akeyla 👋🏽</h1></b>
 <hr>
 
-<h3 align="center">A passionate data analyst from South Florida.</h3>
+<h3 align="center">A Data Enthusiast from South Florida.</h3>
 
 - 👩🏽‍🦱 Pronouns: She/Her
 
