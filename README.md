@@ -19,7 +19,7 @@ practicing yoga, painting and spending time with my family
 
 - 💬 Let's chat [Calendly](https://calendly.com/akeylavirgin)
 
-- 👨‍💻 All of my projects are available at [www.akeylavirgin.com](akeylavirgin.netlify.app)
+- 👨‍💻 All of my projects are available [View My Projects](https://github.com/laav96/PortfolioProjects)
 
 - 📫 How to reach me **virgin.a@icloud.com**
 
